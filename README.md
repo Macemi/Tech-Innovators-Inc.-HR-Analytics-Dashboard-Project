@@ -94,7 +94,7 @@ The HR department faces two major interrelated challenges:
 ---
 
 ### Summary
-This analysis revealed critical gaps in real-time performance monitoring, training effectiveness, attendance accountability (especially at senior levels), and severe underutilization of employee benefits — particularly Paid Time-Off and Wellness Programs. Despite strong overall attendance and project delivery rates, low engagement scores, inconsistent training impact, and misaligned benefits spending are driving inefficiency, unnecessary costs, and hidden dissatisfaction (especially in high-performing IT teams).
+This analysis revealed critical gaps in real-time performance monitoring, training effectiveness, attendance accountability (especially at senior levels), and severe underutilization of employee benefits  particularly Paid Time-Off and Wellness Programs. Despite strong overall attendance and project delivery rates, low engagement scores, inconsistent training impact, and misaligned benefits spending are driving inefficiency, unnecessary costs, and hidden dissatisfaction (especially in high-performing IT teams).
 
 ---
 
